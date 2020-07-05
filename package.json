@@ -1,0 +1,14 @@
+{
+  "name": "funretro-to-text",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^15.2.0",
+    "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
