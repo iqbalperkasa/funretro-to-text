@@ -1,7 +1,5 @@
-const express = require('express');
-const app = express();
-
 const SERVER_PORT = 3000;
+const app = require('express')();
 
 app.get('/', require('./functions'));
 
