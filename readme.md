@@ -2,6 +2,8 @@
 
 Convert FunRetro Public to text.
 
+It is meant to be deployed to functions hosting services.
+
 ## Development
 
 ```bash
